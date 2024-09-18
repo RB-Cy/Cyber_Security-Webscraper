@@ -53,9 +53,12 @@ headers = {
 
 Each job and its associated details will be saved in the CSV file as shown in the snippet below:
 
-Job Title	        Company	   Location	  Employment Type	 Description	 Salary	   Posted     URL
-Security Analyst	TechCorp	 Remote	    Full-time	   Analyze...   $70K-$90K/year 2 days ago	Link
-Penetration Tester	CyberSafe	 NY	        Internship	    Penetration...	 N/A	   5 days ago	Link
+Job Title	        Company	   Location	    Employment Type	  Description	   Salary	         Posted           URL
+
+Security Analyst	TechCorp	  Remote	      Full-time	       Analyze...  $70K-$90K/year  2 days ago	      Link
+
+
+Penetration Tester	CyberSafe	  NY	        Internship	    Penetration...	 N/A	       5 days ago	       Link
 
 
 **Precautions/Considerations**
